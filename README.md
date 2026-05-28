@@ -1,16 +1,16 @@
-## Oi eu sou o erick 👋
+💫 About Me:
+Sou estudante do SENAI, Curso ADS, e ja etudei C, C#, CSS, HTML, Java Scrprit, Marketing digital, Edição d evideos, informatica e ingles
 
-<!--
-**erickdomingues69/erickdomingues69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 Socials:
+Instagram [LinkedIn](https://linkedin.com/in/Erick Gabriel da Silva Domingues) email
 
-Here are some ideas to get you started:
+💻 Tech Stack:
+C C# C++ JavaScript CSS3 HTML5 NodeJS Bulma Adobe Lightroom Adobe Photoshop Figma Canva
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 GitHub Stats:
+
+
+
+
+
+
