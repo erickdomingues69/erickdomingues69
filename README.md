@@ -4,7 +4,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) no SENAI. Tenho s�
 🌐 Socials
 LinkedIn: Erick Gabriel da Silva Domingues (Nota: ajuste o link se o seu usuário do LinkedIn tiver hífens ou pontos)
 
-Instagram: [@seu_usuario]
+Instagram: @wy3rick
 
 Email: seu.email@exemplo.com
 
