@@ -1,12 +1,5 @@
-💫 About Me
+💫 About Me:
 Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) no SENAI. Tenho sólida base em lógica de programação e venho aprimorando minhas habilidades tanto no desenvolvimento de software quanto na criação de interfaces e conteúdo digital. Além da programação, tenho experiência com marketing digital, edição de vídeo, informática e um inglês intermediário.
-
-🌐 Socials
-LinkedIn: Erick Gabriel da Silva Domingues (Nota: ajuste o link se o seu usuário do LinkedIn tiver hífens ou pontos)
-
-Instagram: @wy3rick
-
-Email: erickgdasilvadomingues@gmail.com
 
 💻 Tech Stack
 Languages & Backend
